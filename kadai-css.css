@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#main {
+  background-color: #cfc;
+  width: 700px;
+}
+
+#menu {
+  background-color: #ccf;
+  width: 300px;
+}
+
+header {
+  background-color: #fcc;
+  width: 1000px;
+}
+
+footer {
+  background-color: #fcf;
+  width: 1000px;
+}
+
+#wrapper {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+}
